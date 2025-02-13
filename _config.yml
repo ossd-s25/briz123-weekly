@@ -19,7 +19,7 @@ description: CSCI-UA 480 Computer Science Student, Spring 2025
 # user name for GitHub.
 avatar: /briz123-weekly/images/Headshot.JPG
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->

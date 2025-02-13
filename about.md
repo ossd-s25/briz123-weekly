@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Hello and welcome!
 
-### More Information
+My name is Brizen Carissa Britt and I am a senior at New York University. I love movies and exploring New York City but I am originally from Atlanta. I am studying computer science and I am excited to started my journey diving into open source software development!
 
-A place to include any other types of information that you'd like to include about yourself.
+
 

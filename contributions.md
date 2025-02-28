@@ -26,4 +26,4 @@ Replace the first row with your own contribution.
 | Feb 26 | [link](https://www.openstreetmap.org/changeset/162994003#map=19/40.732355/-74.001518)    | OpenStreetMap feature     | Added The Coppola Cafe which is a community staple and deleted a Juice Generation that doesn't exist.      |
 | Feb 26  | [link](https://www.openstreetmap.org/changeset/162994249#map=19/40.734939/-73.995840)     | OpenStreetMap feature      | Added Wikipedia Page for 24 West 12th Street NYC as it is now a university building and updated building feature.      |
 | Feb 13 | [link](https://github.com/ossd-s25/briz123-weekly/commit/30f12031a0652e32dcad19cf5c1887e4811632fc)| Blog Edit | Fixed grammatical errors in blog post.|
-|---|:---|:---|:---|
+| Feb 28 |[link](https://www.openstreetmap.org/changeset/163071874)| OpenStreetMap Feature | Added a missing cafe called St.George |

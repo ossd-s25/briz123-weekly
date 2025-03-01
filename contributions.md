@@ -28,4 +28,4 @@ Replace the first row with your own contribution.
 | Feb 28 |[link](https://www.openstreetmap.org/changeset/163071874)| OpenStreetMap Feature | Added a missing cafe called St.George |
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=Casa_Italiana_Zerilli-Marim%C3%B2&oldid=1278338061)| Wikipedia edit | Added historical context for a building including a notable previous owner and previous name.|
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=The_Monkey_(film)&oldid=1278341393) | Wikipedia edit | Added uncredited/missing cast members to 2025 Film "The Monkey" |
-| March 1 | [link](https://en.wikipedia.org/w/index.php?title=Talk:The_Substance&oldid=12783400253) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" |
+| March 1 | [link](https://en.wikipedia.org/wiki/Talk:The_Substance) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" (Had to submit edit request and was approved) |

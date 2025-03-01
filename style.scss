@@ -295,6 +295,11 @@ nav {
   padding-bottom: 1em;
   border-bottom: none;
 }
+.post {
+  border:1px solid purple;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
 
 .post {
   blockquote {
@@ -306,9 +311,7 @@ nav {
     font-style: italic;
     border:1px solid purple;
   }
-  .post {
-    border:1px solid purple;
-  }
+  
 
   .comments {
     margin-top: 10px;

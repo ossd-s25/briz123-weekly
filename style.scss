@@ -291,7 +291,7 @@ body{
 .posts > .post {
   padding-bottom: 2em;
   padding: 20px; //more padding
-  border-bottom: 1px solid RGB(146, 168, 209);
+  border-bottom: 1px solid black;
 }
 
 .posts > .post:last-child {
@@ -299,7 +299,7 @@ body{
   border-bottom: none;
 }
 .post {
-  border:1px solid RGB(146, 168, 209);
+  border:1px solid black;
   border-radius: 10px;
   margin-bottom: 20px;
 }
@@ -309,10 +309,10 @@ body{
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: RGB(146, 168, 209);
+    background-color: RGB(146, 168, 209);
     font-size: 22px;
     font-style: italic;
-    border:1px solid RGB(146, 168, 209);
+    border:1px solid black;
   }
   
 

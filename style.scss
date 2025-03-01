@@ -286,7 +286,7 @@ nav {
 // .main
 //
 body{
-  background-color: RGB(247, 202, 201);
+  background-color: #f7e5e5;
 }
 .posts > .post {
   padding-bottom: 2em;
@@ -302,6 +302,7 @@ body{
   border:1px solid black;
   border-radius: 10px;
   margin-bottom: 20px;
+  background-color: #dbe2f0;
 }
 
 .post {
@@ -309,7 +310,7 @@ body{
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    background-color: RGB(146, 168, 209);
+    background-color: #dbe2f0;
     font-size: 22px;
     font-style: italic;
     border:1px solid black;

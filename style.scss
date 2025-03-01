@@ -288,7 +288,8 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding: 20px; //more padding
+  border-bottom: 1px solid purple;
 }
 
 .posts > .post:last-child {
@@ -306,7 +307,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $purple;
     font-size: 22px;
     font-style: italic;
     border:1px solid purple;

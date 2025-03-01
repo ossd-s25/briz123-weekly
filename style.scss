@@ -260,6 +260,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  border-top: 2px solid black;
 
   @include mobile {
     float: none;
@@ -296,7 +297,7 @@ body{
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  border-bottom: 1px solid black;
 }
 .post {
   border:1px solid black;

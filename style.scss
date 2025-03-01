@@ -286,12 +286,12 @@ nav {
 // .main
 //
 body{
-  background-color: lightcyan;
+  background-color: RGB(247, 202, 201);
 }
 .posts > .post {
   padding-bottom: 2em;
   padding: 20px; //more padding
-  border-bottom: 1px solid lightcoral;
+  border-bottom: 1px solid RGB(146, 168, 209);
 }
 
 .posts > .post:last-child {
@@ -299,7 +299,7 @@ body{
   border-bottom: none;
 }
 .post {
-  border:1px solid lightcoral;
+  border:1px solid RGB(146, 168, 209);
   border-radius: 10px;
   margin-bottom: 20px;
 }
@@ -309,10 +309,10 @@ body{
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: purple;
+    color: RGB(146, 168, 209);
     font-size: 22px;
     font-style: italic;
-    border:1px solid lightcoral;
+    border:1px solid RGB(146, 168, 209);
   }
   
 

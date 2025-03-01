@@ -285,11 +285,13 @@ nav {
 //
 // .main
 //
-
+.body{
+  background-color: lightcyan;
+}
 .posts > .post {
   padding-bottom: 2em;
   padding: 20px; //more padding
-  border-bottom: 1px solid purple;
+  border-bottom: 1px solid lightcoral;
 }
 
 .posts > .post:last-child {
@@ -297,7 +299,7 @@ nav {
   border-bottom: none;
 }
 .post {
-  border:1px solid purple;
+  border:1px solid lightcoral;
   border-radius: 10px;
   margin-bottom: 20px;
 }
@@ -310,7 +312,7 @@ nav {
     color: $purple;
     font-size: 22px;
     font-style: italic;
-    border:1px solid purple;
+    border:1px solid lightcoral;
   }
   
 

@@ -302,6 +302,7 @@ body{
 .post {
   border:1px solid black;
   border-radius: 10px;
+  padding: 20px; //more padding
   margin-bottom: 20px;
   background-color: #dbe2f0;
 }
@@ -311,6 +312,7 @@ body{
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
+    
     background-color: #dbe2f0;
     font-size: 22px;
     font-style: italic;

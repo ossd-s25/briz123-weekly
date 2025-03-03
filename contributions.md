@@ -29,4 +29,4 @@ Replace the first row with your own contribution.
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=Casa_Italiana_Zerilli-Marim%C3%B2&oldid=1278338061)| Wikipedia edit | Added historical context for a building including a notable previous owner and previous name.|
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=The_Monkey_(film)&oldid=1278341393) | Wikipedia edit | Added uncredited/missing cast members to 2025 Film "The Monkey". |
 | March 1 | [link](https://en.wikipedia.org/wiki/Talk:The_Substance) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" (Had to submit edit request and was approved). |
-| March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Bug Issue | Not sure if this counts as a contribution but while reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |
+| March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Bug Issue | While reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |

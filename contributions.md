@@ -29,6 +29,7 @@ Replace the first row with your own contribution.
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=Casa_Italiana_Zerilli-Marim%C3%B2&oldid=1278338061)| Wikipedia edit | Added historical context for a building including a notable previous owner and previous name.|
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=The_Monkey_(film)&oldid=1278341393) | Wikipedia edit | Added uncredited/missing cast members to 2025 Film "The Monkey". |
 | March 1 | [link](https://en.wikipedia.org/wiki/Talk:The_Substance) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" (Had to submit edit request and was approved). |
-| March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Bug Issue | While reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |
+| March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Documentation Issue | While reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |
 | March 2 | [link](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/2) | Opened Small Bug Issue | Noticed very minor grammatical mistake in a peers blog |
 | March 5 | [link](https://github.com/ossd-s25/foxzhang1224-weekly/issues/1) | Opened Small Bug Issue | Noticed very small mistake in a peers blog |
+| March 5 | [link](https://github.com/linkedin/school-of-sre/issues/182) | Opened issue and requested to be assigned | Noticed README.md would look better with centered images especially logo |

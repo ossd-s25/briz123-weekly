@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=The_Monkey_(film)&oldid=1278341393) | Wikipedia edit | Added uncredited/missing cast members to 2025 Film "The Monkey". |
 | March 1 | [link](https://en.wikipedia.org/wiki/Talk:The_Substance) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" (Had to submit edit request and was approved). |
 | March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Bug Issue | While reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |
+| March 2 | [link](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/2) | Opened Small Bug Issue | Noticed very minor grammatical mistake in a peers blog |

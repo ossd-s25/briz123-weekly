@@ -33,3 +33,4 @@ Replace the first row with your own contribution.
 | March 2 | [link](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/2) | Opened Small Bug Issue | Noticed very minor grammatical mistake in a peers blog |
 | March 5 | [link](https://github.com/ossd-s25/foxzhang1224-weekly/issues/1) | Opened Small Bug Issue | Noticed very small mistake in a peers blog |
 | March 5 | [link](https://github.com/linkedin/school-of-sre/issues/182) | Opened issue and requested to be assigned | Noticed README.md would look better with centered images especially logo |
+| March 8 | [link](https://github.com/TheOdinProject/javascript-exercises/issues/529) | Opened issue to add | Trying to add exercise to the Odin Project awaiting response |

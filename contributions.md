@@ -30,7 +30,8 @@ Replace the first row with your own contribution.
 | March 1 | [link](https://en.wikipedia.org/w/index.php?title=The_Monkey_(film)&oldid=1278341393) | Wikipedia edit | Added uncredited/missing cast members to 2025 Film "The Monkey". |
 | March 1 | [link](https://en.wikipedia.org/wiki/Talk:The_Substance) | Wikipedia edit | Added uncredited/missing cast members to 2024 Film "The Substance" (Had to submit edit request and was approved). |
 | March 2 | [link](https://github.com/mermaid-js/mermaid/pull/6342) | Opened Documentation Issue | While reading through the repo for mermaid.js noticed and reported an issue that was then fixed by an administrator. |
-| March 2 | [link](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/2) | Opened Small Bug Issue | Noticed very minor grammatical mistake in a peers blog |
-| March 5 | [link](https://github.com/ossd-s25/foxzhang1224-weekly/issues/1) | Opened Small Bug Issue | Noticed very small mistake in a peers blog |
-| March 5 | [link](https://github.com/linkedin/school-of-sre/issues/182) | Opened issue and requested to be assigned | Noticed README.md would look better with centered images especially logo |
-| March 8 | [link](https://github.com/TheOdinProject/javascript-exercises/issues/529) | Opened issue to add | Trying to add exercise to the Odin Project awaiting response |
+| March 2 | [link](https://github.com/ossd-s25/Harry-Yang0518-weekly/issues/2) | Opened Small Bug Issue | Noticed very minor grammatical mistake in a peers blog. |
+| March 5 | [link](https://github.com/ossd-s25/foxzhang1224-weekly/issues/1) | Opened Small Bug Issue | Noticed very small mistake in a peers blog. |
+| March 5 | [link](https://github.com/linkedin/school-of-sre/issues/182) | Opened issue and requested to be assigned | Noticed README.md would look better with centered images especially logo. |
+| March 8 | [link](https://github.com/TheOdinProject/javascript-exercises/issues/529) | Opened issue to add | Trying to add exercise to the Odin Project awaiting response. |
+| March 6 | [link](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1007) | Job Tracker Addition | Added 2 new grad jobs to online tracker for 2025 new grads. |

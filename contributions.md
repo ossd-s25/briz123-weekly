@@ -35,5 +35,5 @@ Replace the first row with your own contribution.
 | March 5 | [link](https://github.com/linkedin/school-of-sre/issues/182) | Opened issue and requested to be assigned | Noticed README.md would look better with centered images especially logo, was understandably rejected as it does not add value. |
 | March 8 | [link](https://github.com/TheOdinProject/javascript-exercises/issues/529) | Opened issue to add | Trying to add exercise to the Odin Project awaiting response. |
 | March 8 | [link](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1007) | Job Tracker Addition | Added 2 new grad jobs to online tracker for 2025 new grads. |
-| March 10 | [link](https://github.com/lucide-icons/lucide/issues/2887) | Documentation Issue | Reported an image was appearing as a 404 in README.md for [Lucide](https://github.com/lucide-icons/lucide) |
-| March 10 | [link](https://github.com/lucide-icons/lucide/pull/2889) | Documentation PR | Forked and made a PR to fix issue with svg not appearing in both README.md and CONTRIBUTING.md for [Lucide](https://github.com/lucide-icons/lucide) |
+| March 10 | [link](https://github.com/lucide-icons/lucide/issues/2887) | Documentation Issue | Reported an image was appearing as a 404 in README.md for [Lucide](https://github.com/lucide-icons/lucide). |
+| March 10 | [link](https://github.com/lucide-icons/lucide/pull/2889) | Documentation PR | Forked and made a PR to fix issue with svg not appearing in both README.md and CONTRIBUTING.md for [Lucide](https://github.com/lucide-icons/lucide). |

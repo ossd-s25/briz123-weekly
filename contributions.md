@@ -37,3 +37,6 @@ Replace the first row with your own contribution.
 | March 8 | [link](https://github.com/SimplifyJobs/New-Grad-Positions/issues/1007) | Job Tracker Addition | Added 2 new grad jobs to online tracker for 2025 new grads. |
 | March 10 | [link](https://github.com/lucide-icons/lucide/issues/2887) | Documentation Issue | Reported an image was appearing as a 404 in README.md for [Lucide](https://github.com/lucide-icons/lucide). |
 | March 10 | [link](https://github.com/lucide-icons/lucide/pull/2889) | Documentation PR | Forked and made a PR to fix issue with svg not appearing in both README.md and CONTRIBUTING.md for [Lucide](https://github.com/lucide-icons/lucide). |
+| March 17 | [link](https://github.com/lucide-icons/lucide/issues/2913) | Icon Contribution | Created a svg icon for our UI project to establish further communication and gain familiarity in the community |
+| March 17 | [link](https://github.com/lucide-icons/lucide/discussions/2912) | Feature suggestion | Suggested adding guides/tutorial to using Lucide Studio to contribute icons |
+| March 17 | [link](https://github.com/lucide-icons/lucide/issues/2914) | Suggestion Issue | Opened issue suggested an icon that is missing |
